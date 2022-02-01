@@ -1,5 +1,3 @@
-const form = document.querySelector('#todoForm');
-const input = document.querySelector('#todoInput');
 const output = document.querySelector('#output');
 const error = document.querySelector('#error');
 
